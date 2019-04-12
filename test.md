@@ -249,7 +249,7 @@ div: "Axl Rose"
 ```
 
 ### Resultados
-![HTML](https://imgur.com/owpod6B)
+[Imgur](https://i.imgur.com/owpod6B.png)
 
 ## Lições aprendidas
 * Por termos utilizado boa parte dos membros da equipe na criação do protótipo da linguagem, tivemos poucas pessoas desenvolvendo o compilador em si, tendo sido um limitante para desenvolvermos os componentes esperados para essa Sprint.
